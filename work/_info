@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vhalf_add
+!i10b 1
+Z1 !s100 ^h99=SRg8d7miDX]n^Iz53
+Z2 I459m>nk2J97`7Qb2;^8RE3
+Z3 VT3N=:RY>F4EPXIhhmNPK81
+Z4 dC:\QuartusProjects\Lab3
+Z5 w1742904491
+Z6 8C:/QuartusProjects/Lab3/half_add_lab1.v
+Z7 FC:/QuartusProjects/Lab3/half_add_lab1.v
+L0 6
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1742907973.819000
+!s107 C:/QuartusProjects/Lab3/half_add_lab1.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/QuartusProjects/Lab3/half_add_lab1.v|
+!s101 -O0
+Z10 o-work work -O0
